@@ -5,3 +5,5 @@
 /.vs
 /bin
 /obj
+/Statistics/bin/Debug/net7.0
+/Statistics/obj
